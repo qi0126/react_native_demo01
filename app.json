@@ -1,0 +1,12 @@
+{
+  "name": "new02",
+  "displayName": "new02",
+  "expo": {
+    "name": "new02",
+    "slug": "new02",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
